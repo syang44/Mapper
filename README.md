@@ -18,4 +18,4 @@ A Geographic Information System developed in C++ using EZGL and GTK for graphics
 - Help button
 
 # Demonstration
-See Demo folder.
+See Demo.md for demonstrations of a few features.
