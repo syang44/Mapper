@@ -18,4 +18,4 @@ A Geographic Information System developed in C++ using EZGL and GTK for graphics
 - Help button
 
 # Demonstration
-See Demo.md for demonstrations of a few features.
+See [Demo.md](https://github.com/syang44/Mapper/blob/main/Demo.md) for demonstrations of a few features.
